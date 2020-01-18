@@ -1,0 +1,4 @@
+# Login <username> and <password>
+* Write <username> to "email" with id
+* Write <password> to "password" with id
+* Click to "loginButton" with "id"
